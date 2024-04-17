@@ -1,4 +1,4 @@
-# orangepi-tricks
+# SBC-tricks
 
 ## Running x86_64 docker
 
@@ -54,3 +54,5 @@ $ ls /usr/bin/qemu-*-static
 /usr/bin/qemu-i386-static        /usr/bin/qemu-mips-static          /usr/bin/qemu-s390x-static       /usr/bin/qemu-xtensa-static
 /usr/bin/qemu-m68k-static        /usr/bin/qemu-nios2-static         /usr/bin/qemu-sh4eb-static
 ```
+
+> More about qemu-user: https://wiki.debian.org/QemuUserEmulation
